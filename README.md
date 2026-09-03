@@ -1,7 +1,7 @@
 # 🎬 DSG PlayIT
 
 <p align="center">
-  <img src="app/src/main/res/drawable/app_logo.png" alt="DSG PlayIT Logo" width="120" height="120" />
+  <img src="https://raw.githubusercontent.com/abhijit-108/DSG-PLayIT/main/logo.png" alt="DSG PlayIT Logo" width="120" height="120" />
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@
 
 ## 📥 Download & Installation
 
-1. Go to the **[Releases](../../releases)** tab on GitHub.
+1. Go to the **[Releases](https://github.com/abhijit-108/DSG-PLayIT/releases)** tab on GitHub.
 2. Download the latest **`DSG-PlayIT-v2.0.1.apk`**.
 3. Open the downloaded `.apk` file on your Android device.
 4. When prompted, enable **"Install from unknown sources"** for your browser or file manager.
