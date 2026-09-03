@@ -72,72 +72,13 @@
 
 ---
 
-## 📂 Project Structure
+## 📥 Download & Installation
 
-```
-DSG PlayIT/
-├── app/
-│   ├── src/main/
-│   │   ├── java/com/delsgade/playit/
-│   │   │   ├── data/
-│   │   │   │   ├── model/
-│   │   │   │   │   └── VideoItem.kt           # Video & Folder data models
-│   │   │   │   └── repository/
-│   │   │   │       └── VideoRepository.kt     # MediaStore query & indexing
-│   │   │   ├── theme/
-│   │   │   │   ├── Color.kt                   # Neon violet brand color palette
-│   │   │   │   └── Theme.kt                   # Compose Dark Color Scheme
-│   │   │   ├── ui/
-│   │   │   │   ├── folder/
-│   │   │   │   │   ├── FolderListScreen.kt    # Home folder browser & version badge
-│   │   │   │   │   ├── FolderVideosScreen.kt  # Videos in folder list
-│   │   │   │   │   └── FolderViewModel.kt     # State management & sorting
-│   │   │   │   └── player/
-│   │   │   │       ├── PlayerActivity.kt      # Fullscreen player lifecycle & PiP
-│   │   │   │       ├── PlayerScreen.kt        # Media3 ExoPlayer & gesture coordinator
-│   │   │   │       ├── PlayerControlsOverlay.kt # Slim seekbar & control pills
-│   │   │   │       ├── PlayerGestures.kt      # Vertical sliders & swipe detectors
-│   │   │   │       └── TrackSelectionDialog.kt # Audio & subtitle selector modals
-│   │   │   └── MainActivity.kt                # App entrypoint & permission handling
-│   │   └── res/
-│   │       └── drawable/
-│   │           └── app_logo.png               # Crystal neon play button branding
-│   └── build.gradle.kts
-├── gradle/
-│   └── libs.versions.toml
-└── README.md
-```
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-- **Android Studio** Ladybug (2024.2+) or newer
-- **JDK 17**
-- **Android SDK** API 36 (Minimum API 26)
-
-### Building from Source
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/dsg-playit.git
-   cd dsg-playit
-   ```
-
-2. **Open in Android Studio** or build via command line:
-   ```bash
-   # Windows PowerShell
-   .\gradlew assembleDebug
-
-   # macOS / Linux
-   ./gradlew assembleDebug
-   ```
-
-3. **Install on Device via ADB**:
-   ```bash
-   adb install -r app/build/outputs/apk/debug/app-debug.apk
-   ```
+1. Go to the **[Releases](../../releases)** tab on GitHub.
+2. Download the latest **`DSG-PlayIT-v2.0.1.apk`**.
+3. Open the downloaded `.apk` file on your Android device.
+4. When prompted, enable **"Install from unknown sources"** for your browser or file manager.
+5. Launch **DSG PlayIT** and grant media permission to immediately browse and play your offline video collection.
 
 ---
 
