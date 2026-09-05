@@ -1,9 +1,9 @@
 {
   "versionCode": 2,
-  "versionName": "2.1.4",
-  "title": "DSG PLayIT v2.1.4",
+  "versionName": "2.1.5",
+  "title": "DSG PLayIT v2.1.5",
   "releaseDate": "2026-09-05",
-  "changelog": "- Minimal & modern Settings page with compact grouped cards\n- In-app GitHub APK updater with live download progress\n- Automatic launch update dialog with changelog display\n- Red-themed dismissible 'Later' action button\n- Real-time controls for Playback, Gestures, AMOLED mode\n- Dynamic app version display on main screen",
+  "changelog": "- Minimal & modern Settings page with compact grouped cards\n- In-app GitHub APK updater with live download progress\n- Automatic launch update dialog with changelog display\n- Red-themed dismissible 'Later' action button\n- Removed search buttons for a cleaner, distraction-free UI across home & folder screens\n- Real-time controls for Playback, Gestures, AMOLED mode\n- Dynamic app version display on main screen",
   "downloadUrl": "https://github.com/abhijit-108/DSG-PLayIT/releases/latest/download/app-release.apk",
   "apkSizeBytes": 25666969
 }
