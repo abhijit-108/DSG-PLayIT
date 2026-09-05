@@ -1,0 +1,9 @@
+{
+  "versionCode": 3,
+  "versionName": "2.1.3",
+  "title": "DSG PLayIT v2.1.3",
+  "releaseDate": "2026-09-05",
+  "changelog": "- Minimal & modern settings layout\n- In-app GitHub APK updater\n- High-efficiency playback engine\n- Smooth gesture controls",
+  "downloadUrl": "https://github.com/abhijit-108/DSG-PLayIT/releases/latest/download/app-release.apk",
+  "apkSizeBytes": 25666969
+}
