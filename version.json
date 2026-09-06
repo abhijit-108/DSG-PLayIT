@@ -3,7 +3,7 @@
   "versionName": "2.1.6",
   "title": "DSG PLayIT v2.1.6",
   "releaseDate": "2026-09-06",
-  "changelog": "- Video cards now feature a dedicated chip badge for file size\n- Date & time moved to separate line with improved visibility & contrast\n- Enlarged video thumbnails for easier browsing\n- Added top-right on-screen popup HUD indicator when changing video fit / aspect ratio\n- Aspect ratio preference persistence across sessions\n- Streamlined player controls with widened button spacing\n- Redesigned wide 2-column Video Information dialog fitting all specs without scrolling\n- Clean relative file path display in Video Information",
+  "changelog": "- Video cards now feature a dedicated chip badge for file size\n- Date & time moved to separate line with improved visibility & contrast\n- Enlarged video thumbnails for easier browsing\n- Added top-right on-screen popup HUD indicator when changing video fit / aspect ratio\n- Aspect ratio preference persistence across sessions\n- Streamlined player controls with widened button spacing\n- Redesigned wide 2-column Video Information dialog fitting all specs without scrolling\n- Fixed progress bar tapping & dragging: seamless responsive scrubbing, larger touch target, and gesture isolation",
   "downloadUrl": "https://raw.githubusercontent.com/abhijit-108/DSG-PLayIT/main/app-debug.apk",
   "apkSizeBytes": 25683408
 }
