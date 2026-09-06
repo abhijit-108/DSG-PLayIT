@@ -60,6 +60,7 @@ Download the latest APK directly from the repository:
 - **Aspect Ratio HUD Indicator**: Top-right on-screen popup showing applied mode (*Fit to Screen, Crop / Zoom, Stretch*) with saved preferences.
 - **Streamlined Player Controls**: Removed redundant 10s skip buttons in favor of double-tap gestures; widened button spacing with glassmorphic borders.
 - **Compact Video Info Dialog**: 2-column specs grid fitting all details without scrolling, and clean relative file path (starts after `emulated/0/`).
+- **Fixed Progress Bar Scrubbing**: Responsive instant tapping & fluid dragging with a 40dp touch target and gesture isolation.
 
 ### `v 2.1.5`
 - **Settings & Preferences**: Minimal grouped settings for Playback, Gestures, and AMOLED Pure Black mode.
