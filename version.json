@@ -1,9 +1,9 @@
 {
   "versionCode": 2,
-  "versionName": "2.1.6",
-  "title": "DSG PLayIT v2.1.7",
+  "versionName": "2.1.8",
+  "title": "DSG PLayIT v2.1.8",
   "releaseDate": "2026-09-06",
-  "changelog": "- Video cards now feature a dedicated chip badge for file size\n- Date & time moved to separate line with improved visibility & contrast\n- Enlarged video thumbnails for easier browsing\n- Added top-right on-screen popup HUD indicator when changing video fit / aspect ratio\n- Aspect ratio preference persistence across sessions\n- Streamlined player controls with widened button spacing\n- Redesigned wide 2-column Video Information dialog fitting all specs without scrolling\n- Fixed progress bar tapping & dragging: seamless responsive scrubbing, larger touch target, and gesture isolation",
+  "changelog": "- Fixed Touch & Hold for 2X speed gesture recognition and event consumption conflict\n- Unified gesture engine orchestrating hold-to-speed, swipe drag, and single/double-tap detection\n- Smooth 2X Speed HUD badge indicator with haptic feedback on hold activation\n- Accurate playback speed and play/pause state restoration upon releasing hold\n- Improved gesture touch isolation preventing unintended control toggles and accidental skips",
   "downloadUrl": "https://raw.githubusercontent.com/abhijit-108/DSG-PLayIT/main/app-debug.apk",
-  "apkSizeBytes": 25683408
+  "apkSizeBytes": 25681684
 }
