@@ -1,9 +1,9 @@
 {
   "versionCode": 2,
-  "versionName": "2.1.8",
-  "title": "DSG PLayIT v2.1.8",
-  "releaseDate": "2026-09-06",
-  "changelog": "- Fixed Touch & Hold for 2X speed gesture recognition and event consumption conflict\n- Unified gesture engine orchestrating hold-to-speed, swipe drag, and single/double-tap detection\n- Smooth 2X Speed HUD badge indicator with haptic feedback on hold activation\n- Accurate playback speed and play/pause state restoration upon releasing hold\n- Improved gesture touch isolation preventing unintended control toggles and accidental skips",
+  "versionName": "2.2.0",
+  "title": "DSG PLayIT v2.2.0",
+  "releaseDate": "2026-09-07",
+  "changelog": "- Dynamic Light & Dark Theme system with automatic Android system dark mode switching\n- In-app Theme selection in Settings (Follow System, Light, Dark)\n- Adaptive system status bar icons (dark icons in light mode, white in dark mode)\n- File manager multi-select mode: long-press to select, batch delete with scoped storage support\n- Folder total size indicator showing aggregate video storage next to video count\n- Quick Share action button on video cards for instant native sharing\n- Enhanced thumbnail aspect ratios and larger card heights for better preview visibility\n- Modern colorful light app launcher icon for improved contrast",
   "downloadUrl": "https://raw.githubusercontent.com/abhijit-108/DSG-PLayIT/main/app-debug.apk",
   "apkSizeBytes": 25681684
 }
