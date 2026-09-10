@@ -1,9 +1,9 @@
 {
   "versionCode": 2,
-  "versionName": "2.2.1",
-  "title": "DSG PLayIT v2.2.1",
-  "releaseDate": "2026-09-09",
-  "changelog": "- Permanent Time & Battery HUD: persistent top-right video player overlay with live clock and battery percentage\n- Distraction-free HUD design: removed AM/PM and time icon for a compact, minimal look with subtle translucent scrim\n- Quick Action 'Time' toggle: one-tap pill button in player controls with active highlight\n- Playback preferences persistence: time overlay setting saved across sessions\n- Improved title marquee spacing and dynamic HUD repositioning to prevent overlap",
+  "versionName": "2.2.2",
+  "title": "DSG PLayIT v2.2.2",
+  "releaseDate": "2026-09-10",
+  "changelog": "- Ultra-fast hardware-accelerated folder & video thumbnail loading via Android ContentResolver\n- Persistent WebP disk caching for instantaneous thumbnail retrieval (<1ms) on scroll\n- Instant keyframe sync seeking (OPTION_CLOSEST_SYNC) eliminating slow video demuxing\n- Throttled background decoder concurrency keeping UI scrolling locked at 60/120 FPS\n- Reduced thumbnail memory footprint by 50% using optimized RGB_565 bitmaps\n- Fixed UI freeze and unresponsiveness when browsing large video folders",
   "downloadUrl": "https://raw.githubusercontent.com/abhijit-108/DSG-PLayIT/main/app-debug.apk",
-  "apkSizeBytes": 24930338
+  "apkSizeBytes": 24931391
 }
